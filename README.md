@@ -6,6 +6,10 @@ For creating thumb you can follow the below github repository.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Configure
+
+Rename `sample-config.js` to `firebase.config.js` and populate all the fields with firebase credentials.
+
 ## Available Scripts
 
 In the project directory, you can run:
